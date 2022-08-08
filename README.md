@@ -41,6 +41,8 @@ pip install pandas
 ## 安装好环境以及准备好相应文件后,在终端运行(文件目录路径下)
 ```
 python SUSmember.py 自动化学院-202205 updata
+
+python SUSmember.py 自动化学院-202205 back
 ```
 - 运行完成输出，各班详细情况，并在结果文件夹生成EXCELL统计文件
 
