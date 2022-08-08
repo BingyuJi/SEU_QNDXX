@@ -2,7 +2,9 @@
 	
 ###
 代码依托于东南大学无锡校区青年大学习统计方式，网址：https://github.com/huzai9527
+
 在其功能上加入团员非团员统计，分数累计计算，学习次数累计等多种新功能
+
 本项目github下载网址：https://github.com/BingyuJi/SEU_QNDXX
 ###
 
